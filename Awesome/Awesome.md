@@ -1,0 +1,1 @@
+[Awesome Legal Data](https://github.com/openlegaldata/awesome-legal-data) - a curated collection of datasets, corpora, benchmarks, and tools related to legal data and legal text processing, organized by jurisdiction. It brings together openly available and commercial resources to support legal research, analytics, and NLP applications.
