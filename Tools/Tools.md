@@ -1,2 +1,7 @@
 [Indian Law Plugin](https://github.com/swarochish/indian-law-plugin) - an open-source AI plugin for Claude Code that provides a comprehensive Indian legal system with 32 specialist agents, 235 reference protocols, and tools covering multiple domains like criminal, civil, corporate, and constitutional law. It enables structured legal analysis, case references, and procedural guidance through domain-specific commands and automated query routing. 
+
 [Summarization-of-TOS](https://github.com/aarushi211/Summarization-of-TOS) - a legal AI project (TOS-Summarizer) that generates concise executive summaries and clause-based answers from lengthy Terms of Service documents. It focuses on improving user understanding of complex legal agreements through NLP-based summarization and structured insights.
+
+[Advo (Advocate.ai)](https://github.com/TheCleverIdiott/advo) - an AI-powered legal search engine and chatbot platform designed to improve legal awareness and access to justice in India. It enables users to ask legal queries in plain language, retrieve relevant laws and case references, and access features like document summarization, multilingual support, and a Know-Your-Rights framework.
+
+[Court Scraper](https://shivaraj-arch.github.io/court-scraper/) - a Python-based automation tool designed for Karnataka court hall case tracking, enabling users to scrape and monitor case information from court websites. It focuses on extracting structured case data for easier tracking, analysis, and updates of court proceedings. 
