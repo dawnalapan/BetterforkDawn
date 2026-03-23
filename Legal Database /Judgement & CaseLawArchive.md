@@ -1,0 +1,9 @@
+# Judgement & Case Law Archive
+
+[Latest CaseLaw (LatestLaws)](https://www.latestlaws.com/latest-caselaw) | [Android](https://play.google.com/store/apps/details?id=app.latestlaws&hl=en) - a dedicated section of LatestLaws that provides regularly updated judgments from the Supreme Court and various High Courts, listing recent cases with citations, judgment dates, and direct access to full-text decisions for legal research. ⭐
+
+[LiveLaw](https://www.livelaw.in/) - an independent legal news portal providing real-time updates, court reporting, judgments, and expert legal analysis from the Supreme Court, High Courts, and other judicial developments in India. It focuses on fact-based, non-sensational legal journalism and comprehensive coverage of the legal ecosystem. ⭐ 
+
+[Court Book: Bare Acts & News](https://play.google.com/store/apps/details?id=in.courtbook) - a legal reference mobile app that provides access to 10,000+ Indian bare acts, legal drafts, judgments, and the Constitution of India along with daily legal news updates. It enables lawyers, students, and researchers to explore laws, compare old and new statutes, and access legal resources in a user-friendly interface. ⭐
+
+[Supreme Court Law Reporter (Chawla Publications)](https://play.google.com/store/apps/details?id=com.chawlapublication.scheadlines) - a legal reporting mobile app providing comprehensive Supreme Court case coverage with headnotes, parallel citations, and a fully searchable database of judgments dating back to 1950. It enables users to track important decisions, search by citation or party name, and stay updated with daily case reporting. 

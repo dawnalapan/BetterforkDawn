@@ -7,3 +7,7 @@
 [BareMinLaw](https://bareminlaw.com/) - an online legal resource decoding bareact and providing simplified access to bare acts, legal provisions, and study materials for Indian law students and professionals. It focuses on presenting legal content in an easy-to-understand format to aid quick reference and learning. 
 
 [LegalDocs](https://legaldocs-tau.vercel.app/) - an online tool that allows users to generate professionally crafted legal documents instantly by entering their details. It offers customizable templates, state-specific compliance, and quick download options to simplify legal documentation processes.
+
+[ToS;DR](https://tosdr.org/en) - a community-driven project that analyzes and summarizes terms of service and privacy policies of websites, helping users understand them through simple ratings and key points. It provides graded evaluations (A to E) based on how well services respect user rights, privacy, and data usage. 
+
+[MSR E-Law Books Download](https://msrlawbooks.in/download.html) - a free online repository of law e-books authored by M. S. Rama Rao, offering downloadable PDFs on a wide range of legal subjects such as constitutional law, IPC, CPC, CrPC, evidence, and jurisprudence for students and learners. It provides structured, lecture-based study material aimed at simplifying legal concepts. 
